@@ -86,12 +86,15 @@ for s in intermediate_steps:
 If you use this tool in your research, please cite:
 
 ```
-@misc{ttsvowelviz2025,
-  author = {Pasindu Udawatta and Jesin James and B.T. Balamurali and Catherine I. Watson and Ake Nicholas and Binu Abeysinghe},
-  title = {TTSVowelViz},
-  year = {2025},
-  url = {https://github.com/pasindu-ud/ttsvowelviz}
-}
+@inproceedings{ttsvowelviz-2026,
+  author    = {Pasindu Udawatta and Jesin James and B.T. Balamurali and Catherine I. Watson and Ake Nicholas and Binu Abeysinghe},
+  title     = {{TTSVowelViz: A Tool for Visualising Text-to-Speech Model Training via Vowel Spaces}},
+  booktitle = {Proceedings of the Language Resources and Evaluation Conference},
+  month     = {May},
+  year      = {2026},
+  address   = {Palma, Spain},
+  publisher = {European Language Resources Association},
+  url       = {https://pypi.org/project/ttsvowelviz/}}
 ```
 
 ---
